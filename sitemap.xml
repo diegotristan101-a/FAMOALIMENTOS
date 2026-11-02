@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url><loc>https://famoalimentos.mx/</loc><lastmod>2026-11-02</lastmod><video:video><video:thumbnail_loc>https://famoalimentos.mx/img/og.jpg</video:thumbnail_loc><video:title>Famo Alimentos · Del campo a tu mesa</video:title><video:description>Video institucional de Famo Alimentos: la leche, la planta en San Roque de Montes, nuestra gente, energía limpia y los quesos en tu mesa.</video:description><video:content_loc>https://famoalimentos.mx/media/famo-video.mp4</video:content_loc><video:duration>175</video:duration></video:video></url>
+  <url><loc>https://famoalimentos.mx/quesos-san-roque/</loc><lastmod>2026-11-02</lastmod></url>
+  <url><loc>https://famoalimentos.mx/villa-magna/</loc><lastmod>2026-11-02</lastmod></url>
+  <url><loc>https://famoalimentos.mx/don-fito/</loc><lastmod>2026-11-02</lastmod></url>
+</urlset>
