@@ -1425,6 +1425,12 @@ input,textarea,select{color:var(--ink)}
 /* 16-nov tarde: pie sin logo de Famo y sin el azul difuminado (fondo crema liso) */
 .pie-w.aire{background:var(--bg)}
 .pa-id i{display:none}
+/* 16-nov: en la ficha del producto el panel de color cubre todo el alto (sin franja blanca abajo) */
+@media (min-width:761px){
+  .dlg .pic{aspect-ratio:auto;min-height:100%;container-type:inline-size;display:grid;place-items:center}
+  .dlg .pic img{height:auto;aspect-ratio:1/1}
+  .dlg .pic::before{inset:auto 14% auto;top:calc(50% + 26cqw);height:14cqw}
+}
 
 :root{--truck:url(/FAMOALIMENTOS/img/truck.webp)}
 @font-face{font-family:"Nunito";font-weight:200 1000;font-style:normal;font-display:swap;unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;src:url(/FAMOALIMENTOS/fonts/nunito-200-1000.woff2) format("woff2")}
